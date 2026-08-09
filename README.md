@@ -115,7 +115,7 @@ Placement OS/
 └── README.md
 
 
-## 🚀 How To Use
+# 🚀 How To Use
 
 1. Start the application.
 2. Login using the available student account.
@@ -129,7 +129,7 @@ Placement OS/
 10. Check leaderboard performance.
 11. Generate certificates when required.
 
-## 👩‍💻 Developer
+# 👩‍💻 Developer
 
 **Riya Yadav**
 
