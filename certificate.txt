@@ -1,0 +1,9 @@
+PLACEMENT OS CERTIFICATE
+============================
+
+Name : riya
+College : uu
+Branch : cs
+CGPA : 8.6
+
+Status : Successfully Completed

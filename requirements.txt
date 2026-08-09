@@ -1,0 +1,6 @@
+customtkinter
+bcrypt
+reportlab
+openpyxl
+matplotlib
+requests

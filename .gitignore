@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Database
+placement.db
+*.db
+
+# Logs
+activity_log.txt
+*.log
+
+# Generated files
+*.pdf
+*.xlsx
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env

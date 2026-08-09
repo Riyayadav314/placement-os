@@ -1,0 +1,13 @@
+========== RESUME ==========
+Name : riya 
+Username : raj332
+College : uu
+Branch : cs
+CGPA : 9.0
+
+Skills
+Python
+SQL
+DBMS
+DSA
+OOP
